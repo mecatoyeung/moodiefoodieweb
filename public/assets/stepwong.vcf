@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wong;Stephanie;
+FN:Stephanie
+ORG:Moodie.Foodie
+TITLE:Founder
+PHOTO;MEDIATYPE#image/png:http://moodiefoodie.codingpanda.me/wp-content/uploads/2023/07/moodiefoodie-1.png
+TEL;TYPE=WORK,VOICE:(+852) 62568894
+ADR;TYPE=WORK:;;Hong Kong
+EMAIL:moodie.foodie.hk@gmail.com
+END:VCARD
