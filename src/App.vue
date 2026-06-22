@@ -146,7 +146,7 @@
                 </div>
               </Teleport>
               <a
-                href="https://wa.me/85262568894?text=你好，很高興認識Moodie.Foodie！我希望日後能收到更多關於精神健康及飲食健康的資訊。請新增我為你的聯絡人！https://moodiefoodieweb.github.io/"
+                href="https://wa.me/85262568894?text=你好，很高興認識Moodie.Foodie！我希望日後能收到更多關於精神健康及飲食健康的資訊。請新增我為你的聯絡人！https://mecatoyeung.github.io/moodiefoodieweb/"
               >
                 <button data-filter=".portfolio_entries-dessert">
                   <font-awesome-icon
@@ -293,7 +293,7 @@ useHead({
     },
     {
       property: "og:url",
-      content: "https://moodiefoodieweb.github.io/",
+      content: "https://mecatoyeung.github.io/moodiefoodieweb/",
     },
     {
       property: "article:published_time",
@@ -312,7 +312,7 @@ useHead({
   link: [
     {
       rel: "canonical",
-      href: "https://moodiefoodieweb.github.io/",
+      href: "https://mecatoyeung.github.io/moodiefoodieweb/",
     },
     { rel: "preconnect", href: "https://fonts.googleapis.com" },
     { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: true },

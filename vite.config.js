@@ -4,7 +4,7 @@ import reactRefresh from "@vitejs/plugin-react-refresh";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/",
+  base: process.env.GITHUB_PAGES ? "/moodiefoodieweb/" : "/",
   publicPath: "/",
   publicRuntimeConfig: {
     baseURL: "/",
